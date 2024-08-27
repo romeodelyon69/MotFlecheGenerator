@@ -1,1 +1,1 @@
-Il faut utiliser le generator
+Il faut utiliser le editor
